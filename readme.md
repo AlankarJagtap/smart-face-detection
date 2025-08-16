@@ -1,5 +1,5 @@
 # Face Recognition Attendance System
-!(assets/face-recognition-attendance-system.jpg)
+![Project Banner](assets/face-recognition-attendance-system.jpg)
 
 A Streamlit-based face recognition system with attendance logging.  
 Built with **PyTorch, facenet-pytorch, OpenCV, and SQLite3**.  
