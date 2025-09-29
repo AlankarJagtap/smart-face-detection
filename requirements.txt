@@ -1,6 +1,6 @@
 streamlit==1.40.2
-torch==2.2.2
-torchvision==0.17.2
+torch==2.8.0
+torchvision==0.17.3
 facenet-pytorch==2.6.0
 opencv-python-headless==4.10.0.84
 Pillow==10.2.0
