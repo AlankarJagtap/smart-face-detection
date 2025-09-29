@@ -13,7 +13,6 @@ colorama==0.4.6
 coloredlogs==15.0.1
 contourpy==1.3.2
 cycler==0.12.1
-dlib @ file:///C:/Users/Alankar/Downloads/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
 face-recognition==1.3.0
 face_recognition_models==0.3.0
 facenet-pytorch==2.6.0
