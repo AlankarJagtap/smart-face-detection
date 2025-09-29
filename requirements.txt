@@ -1,7 +1,8 @@
-streamlit
-opencv-python
-numpy
-torch
-torchvision
-facenet-pytorch
-Pillow
+streamlit==1.40.2
+torch==2.2.2
+torchvision==0.17.2
+facenet-pytorch==2.6.0
+opencv-python-headless==4.10.0.84
+Pillow==10.2.0
+numpy==1.26.4
+mtcnn==1.0.0
